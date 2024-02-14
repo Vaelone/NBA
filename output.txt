@@ -1,0 +1,261 @@
+Hit percentage when 0 of last 10 hit
+37.01657458563536
+Total Sample Size: 724.0
+Average odds of hits: 102.69630409261619
+You would make/lose -24.97 if you bet 100 dollars on this trend
+
+
+Hit percentage when 1 of last 10 hit
+42.529078437220406
+Total Sample Size: 3353.0
+Average odds of hits: 105.29169360255048
+You would make/lose -12.69 if you bet 100 dollars on this trend
+
+
+Hit percentage when 2 of last 10 hit
+45.824784571194094
+Total Sample Size: 9748.0
+Average odds of hits: 102.86441196385098
+You would make/lose -7.04 if you bet 100 dollars on this trend
+
+
+Hit percentage when 3 of last 10 hit
+46.95428966334288
+Total Sample Size: 20258.0
+Average odds of hits: 99.68793630703001
+You would make/lose -6.24 if you bet 100 dollars on this trend
+
+
+Hit percentage when 4 of last 10 hit
+48.10487318324309
+Total Sample Size: 31581.0
+Average odds of hits: 94.7644558807573
+You would make/lose -6.31 if you bet 100 dollars on this trend
+
+
+Hit percentage when 5 of last 10 hit
+48.73336841313989
+Total Sample Size: 39909.0
+Average odds of hits: 91.35700304098489
+You would make/lose -6.75 if you bet 100 dollars on this trend
+
+
+Hit percentage when 6 of last 10 hit
+50.26547000472367
+Total Sample Size: 52925.0
+Average odds of hits: 87.43271282798084
+You would make/lose -5.79 if you bet 100 dollars on this trend
+
+
+Hit percentage when 7 of last 10 hit
+50.50633880060199
+Total Sample Size: 39203.0
+Average odds of hits: 86.70049857763662
+You would make/lose -5.7 if you bet 100 dollars on this trend
+
+
+Hit percentage when 8 of last 10 hit
+49.101080875563525
+Total Sample Size: 18411.0
+Average odds of hits: 88.25375637025135
+You would make/lose -7.57 if you bet 100 dollars on this trend
+
+
+Hit percentage when 9 of last 10 hit
+56.208178438661704
+Total Sample Size: 2690.0
+Average odds of hits: 80.6107673190768
+You would make/lose 1.52 if you bet 100 dollars on this trend
+
+
+Hit percentage when 10 of last 10 hit
+61.66666666666667
+Total Sample Size: 600.0
+Average odds of hits: 81.95014864507618
+You would make/lose 12.2 if you bet 100 dollars on this trend
+
+
+Hit percentage when 0.0-12.5 percent  of prior matchups hit
+44.303278688524586
+Total Sample Size: 4880.0
+Average odds of hits: 98.52898933294226
+You would make/lose -12.05 if you bet 100 dollars on this trend
+
+
+Hit percentage when 12.5-25.0 percent  of prior matchups hit
+45.856758738694694
+Total Sample Size: 4091.0
+Average odds of hits: 96.7228647526755
+You would make/lose -9.79 if you bet 100 dollars on this trend
+
+
+Hit percentage when 25.0-37.5 percent  of prior matchups hit
+46.72798696943566
+Total Sample Size: 10437.0
+Average odds of hits: 94.36288023719479
+You would make/lose -9.18 if you bet 100 dollars on this trend
+
+
+Hit percentage when 37.5-50.0 percent  of prior matchups hit
+48.1710857364041
+Total Sample Size: 5167.0
+Average odds of hits: 92.87079534875178
+You would make/lose -7.09 if you bet 100 dollars on this trend
+
+
+Hit percentage when 50.0-62.5 percent  of prior matchups hit
+49.36600898390857
+Total Sample Size: 17587.0
+Average odds of hits: 90.33879655711397
+You would make/lose -6.04 if you bet 100 dollars on this trend
+
+
+Hit percentage when 62.5-75.0 percent  of prior matchups hit
+51.532430506058446
+Total Sample Size: 1403.0
+Average odds of hits: 86.4424731244584
+You would make/lose -3.92 if you bet 100 dollars on this trend
+
+
+Hit percentage when 75.0-87.5 percent  of prior matchups hit
+51.80003272786779
+Total Sample Size: 12222.0
+Average odds of hits: 86.7603444609156
+You would make/lose -3.26 if you bet 100 dollars on this trend
+
+
+Hit percentage when 87.5-100.0 percent  of prior matchups hit
+Total Sample Size: 0.0
+
+
+Hit percentage when 100.0 percent  of prior matchups hit
+53.892633046711595
+Total Sample Size: 4303.0
+Average odds of hits: 83.98030524649857
+You would make/lose -0.85 if you bet 100 dollars on this trend
+
+
+Hit percentage when 0.0-12.5 percent  of prior matchups hit(Filtered)
+44.98110037799244
+Total Sample Size: 2381.0
+Average odds of hits: 97.94820393979215
+You would make/lose -10.96 if you bet 100 dollars on this trend
+
+
+Hit percentage when 12.5-25.0 percent  of prior matchups hit(Filtered)
+45.60080442433384
+Total Sample Size: 1989.0
+Average odds of hits: 96.66102290074168
+You would make/lose -10.32 if you bet 100 dollars on this trend
+
+
+Hit percentage when 25.0-37.5 percent  of prior matchups hit(Filtered)
+45.966303270564914
+Total Sample Size: 5045.0
+Average odds of hits: 94.34120903440025
+You would make/lose -10.67 if you bet 100 dollars on this trend
+
+
+Hit percentage when 37.5-50.0 percent  of prior matchups hit(Filtered)
+48.55101230647082
+Total Sample Size: 2519.0
+Average odds of hits: 92.77795815297524
+You would make/lose -6.4 if you bet 100 dollars on this trend
+
+
+Hit percentage when 50.0-62.5 percent  of prior matchups hit(Filtered)
+49.19410545705733
+Total Sample Size: 8686.0
+Average odds of hits: 90.23064692846822
+You would make/lose -6.42 if you bet 100 dollars on this trend
+
+
+Hit percentage when 62.5-75.0 percent  of prior matchups hit(Filtered)
+55.2755905511811
+Total Sample Size: 635.0
+Average odds of hits: 86.60137977091465
+You would make/lose 3.15 if you bet 100 dollars on this trend
+
+
+Hit percentage when 75.0-87.5 percent  of prior matchups hit(Filtered)
+52.21105527638191
+Total Sample Size: 5970.0
+Average odds of hits: 86.78792803673247
+You would make/lose -2.48 if you bet 100 dollars on this trend
+
+
+Hit percentage when 87.5-100.0 percent  of prior matchups hit(Filtered)
+Total Sample Size: 0.0
+
+
+Hit percentage when 100.0 percent  of prior matchups hit (Filtered)
+52.656546489563574
+Total Sample Size: 2108.0
+Average odds of hits: 84.77375337252175
+You would make/lose -2.7 if you bet 100 dollars on this trend
+
+
+Hit percentage when player is home: 49.05445631237962
+Total Sample Size: 114220
+Average odds of hits: 91.02362790348981
+You would make/lose -6.29 if you bet 100 dollars on this trend
+
+
+Hit percentage when player is away: 49.077644317456794
+Total Sample Size: 108147
+Average odds of hits: 90.9553924703866
+You would make/lose -6.28 if you bet 100 dollars on this trend
+
+
+OVERS:
+Fast Break Scorers against Weak Fast Break Defenses: 55.16014234875445
+Total Sample Size: 562
+Average odds of hits: 91.82809257764558
+You would make/lose 5.81 if you bet 100 dollars on this trend
+
+
+Turnover Scorers against Weak Turnover Defenses: 54.90981963927856
+Total Sample Size: 499
+Average odds of hits: 91.70396609400937
+You would make/lose 5.26 if you bet 100 dollars on this trend
+
+
+Second Chance Scorers against Weak Second Chance Defenses: 52.7536231884058
+Total Sample Size: 690
+Average odds of hits: 92.59692857006976
+You would make/lose 1.6 if you bet 100 dollars on this trend
+
+
+Paint Scorers against Weak Paint Defenses: 47.89207419898819
+Total Sample Size: 593
+Average odds of hits: 93.56747406149157
+You would make/lose -7.3 if you bet 100 dollars on this trend
+
+
+UNDERS:
+Fast Break Scorers against weak Fast Break Defenses: 43.56617647058824
+Total Sample Size: 544
+Average odds of hits: 90.88973775394638
+You would make/lose -16.84 if you bet 100 dollars on this trend
+
+
+Turnover Scorers against weak Turnover Defenses: 41.75365344467641
+Total Sample Size: 479
+Average odds of hits: 89.70257107242548
+You would make/lose -20.79 if you bet 100 dollars on this trend
+
+
+Second Chance Scorers against Weak Second Chance Defenses: 45.839416058394164
+Total Sample Size: 685
+Total Sample Size: 685
+Average odds of hits: 91.42965690508915
+You would make/lose -12.25 if you bet 100 dollars on this trend
+
+
+Paint Scorers against Weak Paint Defenses: 49.225473321858864
+Total Sample Size: 581
+Total Sample Size: 581
+Average odds of hits: 89.00226848904623
+You would make/lose -6.96 if you bet 100 dollars on this trend
+
+

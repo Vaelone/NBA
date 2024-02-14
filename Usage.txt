@@ -1,0 +1,7 @@
+1. Call Scrape Odds
+2. Call Scrape NBA
+3. Call EditCsvs - No longer needed
+4. Call Make Results
+5. Call GroupPlayers
+6. Call AdvancedStats
+7. Call analyze
